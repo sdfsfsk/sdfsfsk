@@ -25,8 +25,6 @@
 <!-- 徽章群 -->
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![AstrBot](https://img.shields.io/badge/-AstrBot-FF6B9D?style=flat-square&logo=robotframework&logoColor=white)](https://github.com/Soulter/AstrBot)
-[![RVC](https://img.shields.io/badge/-RVC/SVC-8A2BE2?style=flat-square&logo=audacity&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sdfsfsk)
 
 <!-- 访问计数 -->
