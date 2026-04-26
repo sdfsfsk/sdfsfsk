@@ -57,7 +57,7 @@
 <div align="center">
 
 <!-- 技术图标 -->
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,vscode,linux,docker&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,vscode&theme=dark&perline=8" />
 
 </div>
 
