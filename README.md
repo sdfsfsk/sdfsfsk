@@ -1,22 +1,3 @@
-<div align="center">
-
-<!-- 动态打字效果 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Welcome+to+Matsuko%27s+Digital+Garden+%F0%9F%8C%B8)](https://git.io/typing-svg)
-
-<!-- 角色插画 -->
-<img src="./matsuko_char.png" width="280" alt="Matsuko 角色立绘" />
-
-<!-- 装饰分隔线 -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-</div>
-
-<!-- 个人简介卡片 -->
-<div align="center">
-
-### 🦇 你好呀，我是 **Matsuko**（松子）
-
-> *一只游荡的小恶魔 ~* 👿✨  
 
 </div>
 
