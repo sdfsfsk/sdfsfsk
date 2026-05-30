@@ -47,9 +47,6 @@
 <!-- GitHub 活动图 -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sdfsfsk&theme=dracula&hide_border=true&color=FF6B9D&line=FF6B9D&point=FFFFFF&area=true&bg_color=0d1117)
 
-## 🌟 收藏语录
-
-> *"让小恶魔的歌声带你飞向二次元的世界 ~（ai写的）"* 🦇💕
 
 ---
 
