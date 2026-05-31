@@ -22,11 +22,6 @@
 
 <div align="center">
 
-<!-- GitHub 统计卡片 -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=sdfsfsk&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=c9d1d9" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdfsfsk&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=c9d1d9" />
-
-<br>
 
 <!-- 连续贡献 -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdfsfsk&theme=radical&hide_border=true&background=0d1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=FF6B9D&sideLabels=c9d1d9" />
