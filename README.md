@@ -28,12 +28,7 @@
 
 </div>
 
-## 🛠️ 技术栈 & 工具
 
-<div align="center">
-
-<!-- 技术图标 -->
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,vscode&theme=dark&perline=8" />
 
 </div>
 
