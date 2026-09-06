@@ -26,6 +26,9 @@
 <!-- 连续贡献 -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdfsfsk&theme=radical&hide_border=true&background=0d1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=FF6B9D&sideLabels=c9d1d9" />
 
+<!-- 3D 贡献图：夜间彩虹主题，每日自动更新 -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="sdfsfsk 的 3D GitHub 贡献图、语言占比与活动雷达图" width="100%" />
+
 </div>
 
 
